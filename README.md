@@ -1,7 +1,6 @@
 # Olá, meu nome é Pedro Figueiredo
 ## Sou um desenvolvedor fullstack que é apaixonado pelo o mundo da programação desde os 13 anos. | Siga para ver mais informações do meu repositório.
 
-
 ## Redes Sociais:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/figpedroo)
@@ -36,6 +35,10 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myourkiu&layout=donut-vertical&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myourkiu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
