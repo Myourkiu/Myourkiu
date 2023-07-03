@@ -1,5 +1,5 @@
 # Olá, meu nome é Pedro Figueiredo
-## Sou um desenvolvedor fullstack que é apaixonado pelo o mundo da programação desde os 13 anos. | Siga para ver mais informações do meu repositório.
+## Sou um desenvolvedor fullstack que é apaixonado pelo mundo da programação desde os 13 anos. | Siga para ver mais informações do meu repositório.
 
 ## Redes Sociais:
 
