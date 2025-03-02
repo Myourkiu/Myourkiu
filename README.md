@@ -6,7 +6,7 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e7d2bd61228185.5a67a07360e75.gif">
 </p>
 
-## Knowlegde: 
+## Language, Tools, Frameworks and Platforms: 
 <br/>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
