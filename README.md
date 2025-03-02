@@ -1,13 +1,6 @@
 # Hi, my name is Pedro Figueiredo
 ## I am a fullstack developer who has been passionate about the world of programming since the age of 13. | Follow to see more information about my repository.
 
-
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e7d2bd61228185.5a67a07360e75.gif">
-</p>
-
 ## Knowlegde: 
 <br/>
 
@@ -63,4 +56,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myourkiu&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e7d2bd61228185.5a67a07360e75.gif">
+</p>
 
