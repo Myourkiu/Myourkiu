@@ -66,5 +66,4 @@
 
 <br/>
 
-![snake gif](https://github.com/Myourkiu/snk/blob/output/github-contribution-grid-snake.svg)
 
